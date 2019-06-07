@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGL_API_DescargaAndroid", "SGL_API_DescargaAndroid\SGL_API_DescargaAndroid.csproj", "{3B83E0F0-5F3A-495B-881F-24E7ECF7F2B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGL_API_DescargaAndroid", "SGL_API_DescargaAndroid\SGL_API_DescargaAndroid.csproj", "{E702F27F-471B-4A0C-B84F-B79D66A8B4DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3B83E0F0-5F3A-495B-881F-24E7ECF7F2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B83E0F0-5F3A-495B-881F-24E7ECF7F2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B83E0F0-5F3A-495B-881F-24E7ECF7F2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B83E0F0-5F3A-495B-881F-24E7ECF7F2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E702F27F-471B-4A0C-B84F-B79D66A8B4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E702F27F-471B-4A0C-B84F-B79D66A8B4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E702F27F-471B-4A0C-B84F-B79D66A8B4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E702F27F-471B-4A0C-B84F-B79D66A8B4DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EB1C5991-4DBE-4698-9C9F-2C3872D0EDDC}
+		SolutionGuid = {225DD113-C0E4-46AF-ACB0-728C57E4201D}
 	EndGlobalSection
 EndGlobal
