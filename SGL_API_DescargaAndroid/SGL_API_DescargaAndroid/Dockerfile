@@ -5,8 +5,7 @@ EXPOSE 443
 
 FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /src
-COPY ["SGL_API_DescargaAndroid/SGL_API_DescargaAndroid.csproj", "SGL_API_DescargaAndroid/"]
-RUN dotnet restore "SGL_API_DescargaAndroid/SGL_API_DescargaAndroid.csproj"
+RUN dotnet restore "SGL_API_DescargaAndroid.csproj"
 COPY . .
 WORKDIR "/src/SGL_API_DescargaAndroid"
 RUN dotnet build "SGL_API_DescargaAndroid.csproj" -c Release -o /app
